@@ -1,2 +1,2 @@
-# plant-restoration-ml
-A machine learning project aimed at determining the fasibility of using machine learning (and general statistics) to better predict ecological restoration.
+# plant-restoration-size
+A project aimed at determining the fasibility of using a monte carlo simulation to determine a minimum sample size.
